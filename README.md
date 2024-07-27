@@ -1,2 +1,9 @@
-# Razor-Pay--Clone
-Payment Gateway Webpage
+# RazorPay-Clone
+To Run The Server 
+```bash
+npm start
+```
+To install packages
+```bash
+npm install
+```
